@@ -1,0 +1,14 @@
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/bin/Debug/net7.0/lesson1
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/bin/Debug/net7.0/lesson1.deps.json
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/bin/Debug/net7.0/lesson1.runtimeconfig.json
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/bin/Debug/net7.0/lesson1.dll
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/bin/Debug/net7.0/lesson1.pdb
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/lesson1.AssemblyInfoInputs.cache
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/lesson1.AssemblyInfo.cs
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/lesson1.csproj.CoreCompileInputs.cache
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/lesson1.dll
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/refint/lesson1.dll
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/lesson1.pdb
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/lesson1.genruntimeconfig.cache
+/Users/dmitrystrigin/Documents/Git/gbsemi/Seminar001/lesson1/obj/Debug/net7.0/ref/lesson1.dll
